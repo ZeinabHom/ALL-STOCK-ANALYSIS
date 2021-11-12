@@ -1,5 +1,5 @@
 # Stock Analysis
-the purpose of this analysis is to evaluate performance of different kinds of tickers in stock market in 2017 & 2018.
+the purpose of this analysis is to evaluate performance of different types of tickers in stock market in 2017 & 2018.
 ## technical points
 this analysis is done based on Total volume, Return in 2017 & 2018 - Total volume means a sum of Volumes and Return means ending price / starting price -1 .
 we have 12 different type of tickers,  therefore,  tickers is defined as an array; 
